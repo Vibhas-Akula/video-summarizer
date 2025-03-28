@@ -1,6 +1,6 @@
 ## Video Summarization Application
-<p>This application focuses over the summarization of contents from a video file (supported types: .mp3, .wav).
-Model: Meta OPT-125m Transformer.
+<p>This application focuses over the summarization of contents from a video file (supported types: .mp3, .wav).<br>
+Model: Meta OPT-125m Transformer.<br>
 Model Type: Causal LLM for Content Summarization.</p>
 
 ## Technology Stack
